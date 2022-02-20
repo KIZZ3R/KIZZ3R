@@ -7,6 +7,6 @@ Location: Brazil
 <br>
 Hobbies: Play guitar and Video Games
 <br>
-Linguagem-Favorita: Python
+Favorite Language: Python
 <br>
-Aprendendo: Java
+Learning: Java

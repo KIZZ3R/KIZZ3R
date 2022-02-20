@@ -1,16 +1,16 @@
-### Hi there 👋
+# KIZZ3R
 
-<!--
-**KIZZ3R/KIZZ3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/83569102/154766725-2954c172-0da7-469e-b48e-bab7f51f20ad.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Olá Dev, sou Vitor Rafael um jovem estudante e aprendiz da linguagem <strong>Java</strong>.<br>
+  Atualmente a procura de alguma vaga de emprego e uma boa taverna pra descançar.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🦄 Linguagens: <strong>Java, Python</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VScode, IntelliJ IDEA.</strong>
+</p>

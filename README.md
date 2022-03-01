@@ -1,4 +1,3 @@
-<br>
 Name: Vitor Rafael
 <br>
 OS: Windows 11

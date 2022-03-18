@@ -4,6 +4,6 @@ Location: Brazil
 <br>
 Hobbies: Play guitar and Video Games
 <br>
-Favorite Language: Python
+Favorite Language: Java
 <br>
-Learning: Java
+Learning: Typescript

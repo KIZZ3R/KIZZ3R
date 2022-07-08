@@ -6,4 +6,4 @@ Hobbies: Play guitar and Video Games
 <br>
 Favorite Language: Java
 <br>
-Learning: Typescript
+Learning: Java/SpringBoot
